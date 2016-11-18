@@ -13,8 +13,9 @@
         Desenvolvido por alunos do 3° ano de informática da E.E.E.P José de Barcelos - 2016
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+    <author href="https://www.facebook.com/keven.max.94" email="kmax136@gmail.com">
+        Keven Max
     </author>
+      <icon src="res/icon.png" />
 
 </widget>
