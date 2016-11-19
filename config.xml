@@ -2,7 +2,7 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.example"
-        versionCode="10" 
+        versionCode="10"
         version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
@@ -16,6 +16,6 @@
     <author href="https://www.facebook.com/keven.max.94" email="kmax136@gmail.com">
         Keven Max
     </author>
-      <icon src="img/ereader.png" />
+      <icon src="img/smartphone.png" />
 
 </widget>
